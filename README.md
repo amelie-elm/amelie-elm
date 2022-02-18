@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amelie-elm
 - 👀 I’m interested in ... animation & video game design/development
-- 🌱 I’m currently learning ... program design and development, collaborative and social computing, developing the interactive web
-- 💞️ I’m looking to collaborate on ... class projects
+- 🌱 I’m currently learning ... program design and development(C++), collaborative and social computing, developing the interactive web
+- 💞️ I’m looking to collaborate on ... class projects and vgdc (video game development club)
 - 📫 How to reach me ... email elmqu089@umn.edu
 
 <!---
